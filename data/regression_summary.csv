@@ -1,0 +1,2 @@
+Regression,Equation,Station ID,Readings,First day,Last day,Total days,Gap days,DD % est,HDD base C,CDD base C,HDD total,CDD total,Baseload (b),HDD coef (h),CDD coef (c),R2,R2 adjusted,R2 cross-validated,S,CVRMSE,Baseload S,Baseload P,HDD coef S,HDD coef P,CDD coef S,CDD coef P
+1,E = b*days + h*HDD + c*CDD,LIML,24,2023-01-01,2024-12-01,701,0,0.0,15.5,22,2731.7999999999997,828.5999999999999,548.8889135187321,40.95613290211426,80.51896725465798,0.9872324297698555,0.9854084911655491,,2986.0294655740527,12.349128100223199,,,,,,
